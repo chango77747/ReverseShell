@@ -1,0 +1,18 @@
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.Form1.resources
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Users\Evan\Documents\development\Reverse Shell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.Form1.resources
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
